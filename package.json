@@ -1,0 +1,28 @@
+{
+  "name": "jncsgj",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@amap/amap-jsapi-loader": "^1.0.1",
+    "@amap/amap-vue": "^2.0.13",
+    "@element-plus/icons-vue": "^2.0.6",
+    "@vuemap/vue-amap": "^1.1.8",
+    "axios": "^0.27.2",
+    "babel-polyfill": "^6.26.0",
+    "core-js": "^3.8.3",
+    "element-plus": "^2.2.6",
+    "js-base64": "^3.7.2",
+    "vue": "^3.2.13",
+    "vue-amap": "^0.5.10",
+    "vue-router": "^4.0.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0"
+  }
+}
